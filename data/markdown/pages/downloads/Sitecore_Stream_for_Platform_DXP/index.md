@@ -28,8 +28,17 @@ This page tracks release history including features added and other pertinent re
 
 | Resource | Description |
 | --- | --- |
-| [Release Notes](/downloads/Sitecore_Stream_for_Platform_DXP/Release_Notes) | Improvements and fixes, listed by release | 
+| [Release Notes](/downloads/Sitecore_Stream_for_Platform_DXP/Release_Notes) | Improvements and fixes, listed by release. | 
 | [Sitecore Stream](https://doc.sitecore.com/stream/en/users/sitecore-stream/sitecore-stream.html) | Introductory documentation of Sitecore's cross-product Stream service.
 | [AI in Experience Platform](https://doc.sitecore.com/xp/en/users/latest/sitecore-experience-platform/ai-in-experience-platform.html) | Documentation of capabilities delivered by the *Sitecore Stream for Platform DXP* module. |
+
+### Client translations
+
+| Resource | Description |
+| --- | --- |
+| [Danish (da-DK)](<https://scdp.blob.core.windows.net/downloads/Sitecore_Stream_for_Platform_DXP/da-DK.zip>) | Danish language client translation file. |
+| [German (de-DE)](<https://scdp.blob.core.windows.net/downloads/Sitecore_Stream_for_Platform_DXP/de-DE.zip>) | German language client translation file. |
+| [Japanese (ja-JP)](<https://scdp.blob.core.windows.net/downloads/Sitecore_Stream_for_Platform_DXP/ja-JP.zip>) | Japanese language client translation file. |
+| [Chinese (zh-CN)](<https://scdp.blob.core.windows.net/downloads/Sitecore_Stream_for_Platform_DXP/zh-CN.zip>) | Chinese language client translation file. |
 
 **Questions?** Contact us on our [#sitecore-stream](https://app.slack.com/client/T09SHRBNU/C08ECL6KRQT) Sitecore Community Slack channel.
