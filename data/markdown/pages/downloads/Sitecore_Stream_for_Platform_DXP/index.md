@@ -7,7 +7,7 @@ description: 'Sitecore Experience Platform artificial intelligence module.'
 
 Sitecore Stream for Platform DXP is introduced as a Sitecore Experience Platform module. The module interworks with Sitecore's **Sitecore Stream** AI service. It requires an active Sitecore Stream subscription to set it up and run. **Please contact your Sitecore account representative to get started.**
 
-This module includes software that you download and install on your existing Sitecore XP deployment. It is compatible with Sitecore XP 10.2, 10.3, and 10.4. The latest module version is downloadeded from the Stream area on the **Sitecore Portal** website. 
+This module includes software that you download and install on your existing Sitecore XP deployment. It is compatible with Sitecore XP 10.2, 10.3, and 10.4. The latest module version is downloadeded from the Stream app on the **Sitecore Portal** website. 
 
 This page tracks release history including features added and other pertinent release information.
 
@@ -15,13 +15,14 @@ This page tracks release history including features added and other pertinent re
 
 | Release | Description |
 | --- | --- |
-| 1.5.89 | Added **Page translation** - translate an entire page with one operation. Added **User access control** - assign users access to specific Stream features. |
-| 1.4.54 | Added **Media metadata extraction** - analyze an image and suggest its title, description, alt text, and key words. |
-| 1.3.23 | Added **Content extraction** - AI-assisted extraction of text from a file, URL, or text; transformed into a structured content item. |
-| 1.2.45 | Added **Item translation** - AI-assisted translation of a site content item, to translate to a selected language, or to generate a new version of same language. |
-| 1.1.63 | Added **Content variants** - prompt AI to generate multiple content variants. Added **Select brand kit** - select from a list of configured brand kits. |
+| 1.6.78 | Added **Sitecore validation rules with AI** enhancement - enable Sitecore's existing field validation rules feature to guide AI-powered features. Specifically, field validation rules can now be applied to the AI prompting of the **Content generation** and **Media metadata extraction** features. |  
+| 1.5.89 | Added **Page translation** feature - translate an entire page with one operation.<br/>Added **User access control** feature - assign users access to specific Stream features. |
+| 1.4.54 | Added **Media metadata extraction** feature - analyze an image and suggest its title, description, alt text, and key words. |
+| 1.3.23 | Added **Content extraction** feature - AI-assisted extraction of text from a file, URL, or text; transformed into a structured content item. |
+| 1.2.45 | Added **Item translation** feature - AI-assisted translation of a site content item, to translate to a selected language, or to generate a new version of same language. |
+| 1.1.63 | Added **Content variants** feature - prompt AI to generate multiple content variants. Added **Select brand kit** - select from a list of configured brand kits. |
 | 1.1.34 | Minor release including bug fixes and improvements to installation, configuration, user experience, error handling, and documentation. |
-| 1.0.113 | Initial release of the Sitecore XP module, available for download from the Sitecore Portal. Compatible with Sitecore XP 10.2, 10.3, and 10.4. |
+| 1.0.113 | Initial release of the Sitecore XP module, delivering **Content generation**. Compatible with Sitecore XP 10.2, 10.3, and 10.4. |
 
 ### Supporting information
 
